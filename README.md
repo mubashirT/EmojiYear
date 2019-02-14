@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to EmojiYear
 
-You can use the [editor on GitHub](https://github.com/mubashirT/EmojiYear/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+An app which lets you record your day’s feelings using emojis and view past records. You can record your day by taking a selfie. MLCore will automatically detect your feelings (you will be given a choice to edit them) and assign an emoji for that day. At the end of every year/month/week we generate a photo containing all the emojis.
 
 ### Markdown
 
@@ -34,4 +32,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Please contact us on mubashir@tintash.com or arlsan@tintash.com
